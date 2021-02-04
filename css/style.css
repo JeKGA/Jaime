@@ -1,3 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;900&family=Noto+Sans&family=Potta+One&family=Yusei+Magic&display=swap');
+
+a{
+    
+}
 header {
     height: 100vh;
     width: 100%;
@@ -5,9 +11,10 @@ header {
 }
 
 header .image-wraper {
-    height: 100vh;;
+    height: 100vh;
+    ;
     width: 100%;
-    background: rgba(0,0,0,0.9);
+    background: rgba(0, 0, 0, 0.9);
     overflow: hidden;
 
 }
@@ -39,26 +46,7 @@ header .image-wraper img {
     margin-top: 20%;
     color: whitesmoke;
     z-index: 4;
-    margin-left: 5em;
-    
-
+    ;
 }
 
-.banner h1 {
-    margin-bottom: 1em;
-}
 
-.banner p{
-    margin-bottom: 2em;;
-}
-
-.banner button{
-    cursor: pointer;
-    height: 2.5em;
-    width: 9.4em;
-}
-
-.banner button a{
-    text-decoration: none;
-    
-}
