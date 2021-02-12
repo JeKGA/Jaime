@@ -49,3 +49,22 @@ header .image-wraper img {
     z-index: 4;
     ;
 }
+
+.quem-sou-eu {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+}
+
+.lista-quem-sou {
+    list-style: none;   
+    text-align: center; 
+    line-height: 2em;
+}
+
+.titulo-quem-sou {
+    margin-bottom: 1em;
+    text-align: center;
+    margin-left: 40px;
+
+}
