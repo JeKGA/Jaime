@@ -68,3 +68,18 @@ header .image-wraper img {
     margin-left: 40px;
 
 }
+
+
+.div-resumos{
+    margin-top: 6em;
+}
+
+.botoes-resumos{
+    display: flex;
+   
+}
+
+.botoes-resumos-style{
+    margin:1em;
+}
+
